@@ -1,0 +1,14 @@
+pydantic>=2.0.0
+pytest
+feedparser
+praw
+requests
+streamlit
+plotly
+pandas
+yfinance
+python-dotenv
+vaderSentiment
+nltk
+beautifulsoup4
+lxml
