@@ -1,10 +1,10 @@
 # AI Risk Engine & Tactical Index Rebalancer - S&P Global & CRISIL Campus Hackathon 2026
  
 **Candidate Name:** Harsh Kapoor  
-**College Email ID:** harsh_kapoor@nitkkr.ac.in  
+**College Email ID:** 124110005@nitkkr.ac.in  
 **College / Campus:** National Institute of Technology Kurukshetra (NIT Kurukshetra)  
-**Demo Video Link:** [YouTube / Unlisted Link Here]  
-**Slide Deck Link (if hosted externally):** [docs/presentation_deck.md]  
+**Demo Video Link:** https://youtu.be/vnRdOHtLJjA  
+**Slide Deck Link (if hosted externally):** [docs/presentation.pdf](docs/presentation.pdf)  
  
 ---
 
@@ -93,8 +93,8 @@ graph TD
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/nitkkr-harsh-kapoor-hackathon.git
-cd nitkkr-harsh-kapoor-hackathon
+git clone https://github.com/Harshkapoor975/nitkkr-harshkapoor-hackathon.git
+cd nitkkr-harshkapoor-hackathon
 
 # 2. Activate virtual environment
 # Windows PowerShell:
